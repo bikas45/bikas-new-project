@@ -1,2 +1,3 @@
-# bikas-new-project
-this is  my first project
+# My first Repo
+this is  My first project
+author - Bikas pokharel
